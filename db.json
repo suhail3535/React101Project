@@ -1924,7 +1924,7 @@
         [
             {
                 "id": "63c9531bf84679293b2c5509",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/h34/h6f/15483349434398/-473Wx593H-460571494-white-MODEL3.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/h34/h6f/15483349434398/-473Wx593H-460571494-white-MODEL3.jpg",
                 "brand": "PERFORMAX",
                 "product": "Tennis Polo T-shirt with Step Hemline",
                 "gender": "male",
@@ -1936,7 +1936,7 @@
             },
             {
                 "_id": "63c95488f84679293b2c550b",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210211/9EVN/60242efb7cdb8c1f143c6f5a/levis_black_washed_slim_fit_jeans.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210211/9EVN/60242efb7cdb8c1f143c6f5a/levis_black_washed_slim_fit_jeans.jpg",
                 "brand": "LEVIS",
                 "product": "Washed Slim Fit Jeans",
                 "gender": "male",
@@ -1948,7 +1948,7 @@
             },
             {
                 "_id": "63c95550cff956f6324029ed",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20201104/cs7f/5fa1ad68f997dd8c8382989d/-473Wx593H-460772370-black-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20201104/cs7f/5fa1ad68f997dd8c8382989d/-473Wx593H-460772370-black-MODEL.jpg",
                 "brand": "PUMA",
                 "product": "BMW M Motorsport T7 Crew-Neck T-shirt",
                 "gender": "male",
@@ -1960,7 +1960,7 @@
             },
             {
                 "_id": "63c95637cff956f6324029ef",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220726/DM6r/62df05bff997dd03e2f6d45c/-473Wx593H-464713750-black-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220726/DM6r/62df05bff997dd03e2f6d45c/-473Wx593H-464713750-black-MODEL6.jpg",
                 "brand": "PUMA",
                 "product": "Graphic Short Sleeves Crew-Neck T-shirt",
                 "gender": "male",
@@ -1972,7 +1972,7 @@
             },
             {
                 "_id": "63c9573bcff956f6324029f1",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220910/PgwY/631ba414aeb269dbb3802c60/-473Wx593H-441143448-navy-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220910/PgwY/631ba414aeb269dbb3802c60/-473Wx593H-441143448-navy-MODEL4.jpg",
                 "brand": "NETPLAY",
                 "product": "Polo T-shirt with Ribbed Hems",
                 "gender": "male",
@@ -1984,7 +1984,7 @@
             },
             {
                 "_id": "63c957b6cff956f6324029f3",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210723/EIus/60f9d4d3f997ddb312339dd8/-473Wx593H-410294814-02a-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210723/EIus/60f9d4d3f997ddb312339dd8/-473Wx593H-410294814-02a-MODEL4.jpg",
                 "brand": "SUPERDRY",
                 "product": "CL Logo Print Crew-Neck T-shirt",
                 "gender": "male",
@@ -1995,7 +1995,7 @@
             },
             {
                 "_id": "63c9582ecff956f6324029f5",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220128/cxtG/61f2f4b8aeb2695cdd33b26e/-473Wx593H-410313140-5dg-MODEL7.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220128/cxtG/61f2f4b8aeb2695cdd33b26e/-473Wx593H-410313140-5dg-MODEL7.jpg",
                 "brand": "SUPERDRY",
                 "product": "Studios Polo T-shirt",
                 "gender": "male",
@@ -2007,7 +2007,7 @@
             },
             {
                 "_id": "63c9587acff956f6324029f7",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221212/XWG6/6397642df997ddfdbdcdec58/-473Wx593H-410332268-ouc-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221212/XWG6/6397642df997ddfdbdcdec58/-473Wx593H-410332268-ouc-MODEL5.jpg",
                 "brand": "SUPERDRY",
                 "product": "Vintage Polo T-Shirt with Tipping",
                 "gender": "male",
@@ -2019,7 +2019,7 @@
             },
             {
                 "_id": "63c959c2cff956f6324029f9",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221027/mRCr/635a2939f997ddfdbd417cff/-473Wx593H-469192059-coral-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221027/mRCr/635a2939f997ddfdbd417cff/-473Wx593H-469192059-coral-MODEL5.jpg",
                 "brand": "U.S. POLO ASSN.",
                 "product": "Typographic Print Polo T-shirt with Ribbed Hem",
                 "gender": "male",
@@ -2031,7 +2031,7 @@
             },
             {
                 "_id": "63c95a44cff956f6324029fb",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221106/5fIV/63678e2caeb269659c74b693/-473Wx593H-469281095-navy-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221106/5fIV/63678e2caeb269659c74b693/-473Wx593H-469281095-navy-MODEL5.jpg",
                 "brand": "U.S. POLO ASSN.",
                 "product": "Logo Embroidered Slim Fit Polo T-Shirt",
                 "gender": "male",
@@ -2043,7 +2043,7 @@
             },
             {
                 "_id": "63c95a9fcff956f6324029fd",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221027/R73G/635a292baeb269659c5bf169/-473Wx593H-469192086-olive-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221027/R73G/635a292baeb269659c5bf169/-473Wx593H-469192086-olive-MODEL5.jpg",
                 "brand": "U.S. POLO ASSN.",
                 "product": "Striped Slim Fit Cotton Polo T-shirt",
                 "gender": "male",
@@ -2055,7 +2055,7 @@
             },
             {
                 "_id": "63c95affcff956f6324029ff",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221001/iVfw/63373b58aeb269659c1d5155/-473Wx593H-469281156-beige-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221001/iVfw/63373b58aeb269659c1d5155/-473Wx593H-469281156-beige-MODEL.jpg",
                 "brand": "U.S. POLO ASSN.",
                 "product": "Us men tshirts beige s",
                 "gender": "male",
@@ -2067,7 +2067,7 @@
             },
             {
                 "_id": "63c95b78cff956f632402a01",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220308/xUVG/622665cef997dd03e205d0ee/-473Wx593H-469131405-black-MODEL2.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220308/xUVG/622665cef997dd03e205d0ee/-473Wx593H-469131405-black-MODEL2.jpg",
                 "brand": "ADIDAS",
                 "product": "Graphic Print Crew-Neck T-shirt",
                 "gender": "male",
@@ -2079,7 +2079,7 @@
             },
             {
                 "_id": "63c95bebcff956f632402a03",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220420/l5U2/625f09bdf997dd03e2695522/-473Wx593H-469164855-purple-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220420/l5U2/625f09bdf997dd03e2695522/-473Wx593H-469164855-purple-MODEL.jpg",
                 "brand": "ADIDAS",
                 "product": "Logo Print Crew-Neck T-shirt",
                 "gender": "male",
@@ -2091,7 +2091,7 @@
             },
             {
                 "_id": "63c95c21cff956f632402a05",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221026/Yigw/6358366ef997ddfdbd3f26e1/-473Wx593H-469211319-pink-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221026/Yigw/6358366ef997ddfdbd3f26e1/-473Wx593H-469211319-pink-MODEL4.jpg",
                 "brand": "ADIDAS",
                 "product": "Graphic Print Crew-Neck T-Shirt",
                 "gender": "male",
@@ -2103,7 +2103,7 @@
             },
             {
                 "_id": "63c95c65cff956f632402a07",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221031/njez/635fea8af997ddfdbd4c6fc7/-473Wx593H-469164900-white-MODEL3.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221031/njez/635fea8af997ddfdbd4c6fc7/-473Wx593H-469164900-white-MODEL3.jpg",
                 "brand": "ADIDAS",
                 "product": "Numeric Print Crew-Neck T-Shirt",
                 "gender": "male",
@@ -2115,7 +2115,7 @@
             },
             {
                 "_id": "63c95c99cff956f632402a09",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221208/hfF1/6391c089f997ddfdbdc7b18c/-473Wx593H-469211445-pink-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221208/hfF1/6391c089f997ddfdbdc7b18c/-473Wx593H-469211445-pink-MODEL.jpg",
                 "brand": "ADIDAS",
                 "product": "Logo Print Crew-Neck T-Shirt",
                 "gender": "male",
@@ -2127,7 +2127,7 @@
             },
             {
                 "_id": "63c95f246e1c701b1a47104d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220311/dlJn/622a455eaeb26921afd215fd/-473Wx593H-469128264-black-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220311/dlJn/622a455eaeb26921afd215fd/-473Wx593H-469128264-black-MODEL.jpg",
                 "brand": "PUMA",
                 "product": "Nu-Tility City Shorts with Insert Pockets",
                 "gender": "male",
@@ -2139,7 +2139,7 @@
             },
             {
                 "_id": "63c95f366e1c701b1a47104f",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220504/gP1u/62717d57aeb26921af52f10c/-473Wx593H-469104025-green-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220504/gP1u/62717d57aeb26921af52f10c/-473Wx593H-469104025-green-MODEL.jpg",
                 "brand": "PUMA",
                 "product": "City Shorts with Elasticated Waist",
                 "gender": "male",
@@ -2151,7 +2151,7 @@
             },
             {
                 "_id": "63c95f446e1c701b1a471051",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220719/I5y3/62d6cf80aeb26921af84d784/-473Wx593H-469188317-green-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220719/I5y3/62d6cf80aeb26921af84d784/-473Wx593H-469188317-green-MODEL6.jpg",
                 "brand": "PUMA",
                 "product": "Brand Print Shorts with Elasticated Waist",
                 "gender": "male",
@@ -2163,7 +2163,7 @@
             },
             {
                 "_id": "63c95f7778ede87dcff11dff",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220624/go1U/62b56c44f997dd03e29c34ce/-473Wx593H-469103857-purple-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220624/go1U/62b56c44f997dd03e29c34ce/-473Wx593H-469103857-purple-MODEL4.jpg",
                 "brand": "PUMA",
                 "product": "Studio Woven Training Shorts",
                 "gender": "male",
@@ -2175,7 +2175,7 @@
             },
             {
                 "_id": "63c95f8878ede87dcff11e01",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220915/GfIf/63222147f997dd1f8dffafeb/-473Wx593H-469257479-green-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220915/GfIf/63222147f997dd1f8dffafeb/-473Wx593H-469257479-green-MODEL5.jpg",
                 "brand": "PUMA",
                 "product": "Slim Fit City Shorts with Elasticated Waistline",
                 "gender": "male",
@@ -2187,7 +2187,7 @@
             },
             {
                 "_id": "63c95f9678ede87dcff11e03",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220429/dxla/626ae87cf997dd03e2880362/-473Wx593H-469157007-black-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220429/dxla/626ae87cf997dd03e2880362/-473Wx593H-469157007-black-MODEL4.jpg",
                 "brand": "PUMA",
                 "product": "Brand Printed Slim Fit Shorts",
                 "gender": "male",
@@ -2199,7 +2199,7 @@
             },
             {
                 "_id": "63c9780d9e5470373589030a",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221227/VNs3/63ab0de2f997ddfdbdfbdbb9/-473Wx593H-469257086-purple-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221227/VNs3/63ab0de2f997ddfdbdfbdbb9/-473Wx593H-469257086-purple-MODEL6.jpg",
                 "brand": "PUMA",
                 "product": "Iconic T7 Double Knit Track Jacket",
                 "gender": "male",
@@ -2211,7 +2211,7 @@
             },
             {
                 "_id": "63c9781e9e5470373589030c",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221223/F6Nd/63a58878aeb269659c048bd5/-473Wx593H-469257116-black-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221223/F6Nd/63a58878aeb269659c048bd5/-473Wx593H-469257116-black-MODEL4.jpg",
                 "brand": "PUMA",
                 "product": "Classics Sherpa Zip-Front Jacket",
                 "gender": "male",
@@ -2223,7 +2223,7 @@
             },
             {
                 "_id": "63c9782f9e5470373589030e",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221215/PH3a/639b3e8faeb269659ceca212/-473Wx593H-469410437-black-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221215/PH3a/639b3e8faeb269659ceca212/-473Wx593H-469410437-black-MODEL4.jpg",
                 "brand": "PUMA",
                 "product": "Padded Zip-Front Gilet",
                 "gender": "male",
@@ -2235,7 +2235,7 @@
             },
             {
                 "_id": "63c978429e54703735890310",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221223/UYDv/63a54c70f997ddfdbdef7eca/-473Wx593H-469257117-green-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221223/UYDv/63a54c70f997ddfdbdef7eca/-473Wx593H-469257117-green-MODEL5.jpg",
                 "brand": "PUMA",
                 "product": "Classics Sherpa Zip-Front Jacket",
                 "gender": "male",
@@ -2247,7 +2247,7 @@
             },
             {
                 "_id": "63c978569e54703735890312",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220719/qiLl/62d6d353aeb26921af84ef15/-473Wx593H-469157262-red-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220719/qiLl/62d6d353aeb26921af84ef15/-473Wx593H-469157262-red-MODEL6.jpg",
                 "brand": "PUMA",
                 "product": "Iconic T7 Track Jacket",
                 "gender": "male",
@@ -2259,7 +2259,7 @@
             },
             {
                 "_id": "63c9786e9e54703735890314",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220719/qiLl/62d6d353aeb26921af84ef15/-473Wx593H-469157262-red-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220719/qiLl/62d6d353aeb26921af84ef15/-473Wx593H-469157262-red-MODEL6.jpg",
                 "brand": "PUMA",
                 "product": "Iconic T7 Track Jacket",
                 "gender": "male",
@@ -2271,7 +2271,7 @@
             },
             {
                 "_id": "63c978949e54703735890316",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220624/zKbY/62b57f81f997dd03e29cb48f/-473Wx593H-469099568-white-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220624/zKbY/62b57f81f997dd03e29cb48f/-473Wx593H-469099568-white-MODEL4.jpg",
                 "brand": "PUMA",
                 "product": "Colourblock Manchester City Iconic MCS Track Jacket",
                 "gender": "male",
@@ -2283,7 +2283,7 @@
             },
             {
                 "_id": "63c978a39e54703735890318",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221208/X1Kq/639189aeaeb269659cdd9a8e/-473Wx593H-469211299-grey-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221208/X1Kq/639189aeaeb269659cdd9a8e/-473Wx593H-469211299-grey-MODEL6.jpg",
                 "brand": "ADIDAS",
                 "product": "Zip-Front Biker Jacket",
                 "gender": "male",
@@ -2295,7 +2295,7 @@
             },
             {
                 "_id": "63c978b39e5470373589031a",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221209/COga/639353a6aeb269659ce097ff/-473Wx593H-469211376-blue-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221209/COga/639353a6aeb269659ce097ff/-473Wx593H-469211376-blue-MODEL5.jpg",
                 "brand": "ADIDAS",
                 "product": "Zip-Front Hoodie with Split Kangaroo Pockets",
                 "gender": "male",
@@ -2307,7 +2307,7 @@
             },
             {
                 "_id": "63c978bf9e5470373589031c",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221213/hiK4/6398a839aeb269659ce79143/-473Wx593H-469211409-green-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221213/hiK4/6398a839aeb269659ce79143/-473Wx593H-469211409-green-MODEL5.jpg",
                 "brand": "ADIDAS",
                 "product": "Colourblock Zip-Front Hoodie",
                 "gender": "male",
@@ -2319,7 +2319,7 @@
             },
             {
                 "_id": "63c978d09e5470373589031e",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220427/xBF0/62684a49f997dd03e2838557/-473Wx593H-410319816-aedv-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220427/xBF0/62684a49f997dd03e2838557/-473Wx593H-410319816-aedv-MODEL4.jpg",
                 "brand": "ADIDAS",
                 "product": "Zip-Front High-Neck Slim Fit Jackets",
                 "gender": "male",
@@ -2331,7 +2331,7 @@
             },
             {
                 "_id": "63c978e79e54703735890320",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221221/QpF9/63a2b7dfaeb269659cfdadc2/-473Wx593H-469417239-pink-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221221/QpF9/63a2b7dfaeb269659cfdadc2/-473Wx593H-469417239-pink-MODEL5.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Checked Slim Fit Shirt with Patch Pocket",
                 "gender": "male",
@@ -2343,7 +2343,7 @@
             },
             {
                 "_id": "63c978f69e54703735890322",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Cotton Shirt with Patch Pocket",
                 "gender": "male",
@@ -2355,7 +2355,7 @@
             },
             {
                 "_id": "63c9790b9e54703735890324",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Cotton Shirt with Patch Pocket",
                 "gender": "male",
@@ -2367,7 +2367,7 @@
             },
             {
                 "_id": "63c979179e54703735890326",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220608/mxTO/62a0694df997dd03e26bef5e/-473Wx593H-469213174-purple-MODEL.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Cotton Shirt with Patch Pocket",
                 "gender": "male",
@@ -2379,7 +2379,7 @@
             },
             {
                 "_id": "63c979599e54703735890328",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211023/mG6a/617401a9f997ddf8f1e4cbf6/-473Wx593H-469039112-maroon-MODEL3.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20211023/mG6a/617401a9f997ddf8f1e4cbf6/-473Wx593H-469039112-maroon-MODEL3.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Slim Fit Shirt with Patch Pocket",
                 "gender": "male",
@@ -2391,7 +2391,7 @@
             },
             {
                 "_id": "63c9796d9e5470373589032a",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220722/3wH7/62daca82f997dd03e2eb4a0d/-473Wx593H-469260949-white-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220722/3wH7/62daca82f997dd03e2eb4a0d/-473Wx593H-469260949-white-MODEL5.jpg",
                 "brand": "AMERICAN EAGLE OUTFITTERS",
                 "product": "Floral Print Shirt with Patch Pocket",
                 "gender": "male",
@@ -2403,7 +2403,7 @@
             },
             {
                 "_id": "63c979a39e5470373589032c",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210903/R9oC/6132178c7cdb8cb82415be12/-473Wx593H-460993001-burgundy-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210903/R9oC/6132178c7cdb8cb82415be12/-473Wx593H-460993001-burgundy-MODEL.jpg",
                 "brand": "AMERICAN EAGLE OUTFITTERS",
                 "product": "Textured Spread-Collar Shirt",
                 "gender": "male",
@@ -2414,7 +2414,7 @@
             },
             {
                 "_id": "63c979b19e5470373589032e",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221025/CYEh/6357f4cff997ddfdbd3e7bc3/-473Wx593H-469349995-blue-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221025/CYEh/6357f4cff997ddfdbd3e7bc3/-473Wx593H-469349995-blue-MODEL.jpg",
                 "brand": "AMERICAN EAGLE OUTFITTERS",
                 "product": "Checked Spread Collar Hooded Shirt",
                 "gender": "male",
@@ -2426,7 +2426,7 @@
             },
             {
                 "_id": "63c979bf9e54703735890330",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211028/NbBt/617ac5e2f997ddf8f1ef2120/-473Wx593H-469043981-white-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20211028/NbBt/617ac5e2f997ddf8f1ef2120/-473Wx593H-469043981-white-MODEL.jpg",
                 "brand": "AMERICAN EAGLE OUTFITTERS",
                 "product": "Slim Fit Shirt with Patch Pocket",
                 "gender": "male",
@@ -2437,7 +2437,7 @@
             },
             {
                 "_id": "63c98ecc75c986d5fa5ec288",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210316/vjmc/604fb3b0aeb2696981864c60/-473Wx593H-460789301-blue-MARKETING.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210316/vjmc/604fb3b0aeb2696981864c60/-473Wx593H-460789301-blue-MARKETING.jpg",
                 "brand": "THE INDIAN GARAGE CO",
                 "product": "Lightly Washed Slim Fit Jeans",
                 "gender": "male",
@@ -2449,7 +2449,7 @@
             },
             {
                 "_id": "63c98ede4089ca726020442d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220819/D1EZ/62fe8572aeb269176183f06d/-473Wx593H-461124442-black-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220819/D1EZ/62fe8572aeb269176183f06d/-473Wx593H-461124442-black-MODEL6.jpg",
                 "brand": "IVOC",
                 "product": "Solid Jogger Jeans with Drawstring",
                 "gender": "male",
@@ -2461,7 +2461,7 @@
             },
             {
                 "_id": "63c98eed5596c67519c4a793",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210719/s71F/60f5a7f0aeb269a9e347578d/-473Wx593H-460893090-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210719/s71F/60f5a7f0aeb269a9e347578d/-473Wx593H-460893090-blue-MODEL4.jpg",
                 "brand": "HIGH STAR",
                 "product": "Low-Rise Relaxed Jeans",
                 "gender": "male",
@@ -2473,7 +2473,7 @@
             },
             {
                 "_id": "63c98f0017743db422e5bb7a",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210421/cVuY/607f26b0f997dd7b64b8bd97/-473Wx593H-460812641-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210421/cVuY/607f26b0f997dd7b64b8bd97/-473Wx593H-460812641-blue-MODEL4.jpg",
                 "brand": "THE INDIAN GARAGE CO",
                 "product": "Washed Distressed Slim Fit Jeans",
                 "gender": "male",
@@ -2485,7 +2485,7 @@
             },
             {
                 "_id": "63c98f0fa96b81c5421060e3",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220923/xDOQ/632cac58f997dd1f8d157d82/-473Wx593H-441146126-grey-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220923/xDOQ/632cac58f997dd1f8d157d82/-473Wx593H-441146126-grey-MODEL4.jpg",
                 "brand": "JOHN PLAYERS JEANS",
                 "product": "Lightly Washed Slim Fit Jeans",
                 "gender": "male",
@@ -2497,7 +2497,7 @@
             },
             {
                 "_id": "63c98f2143c1686c4393a25f",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211020/118M/616f2ad1aeb26901109c6a53/-473Wx593H-469009831-blue-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20211020/118M/616f2ad1aeb26901109c6a53/-473Wx593H-469009831-blue-MODEL.jpg",
                 "brand": "THE INDIAN GARAGE CO",
                 "product": "Lightly Washed Slim Fit Jeans",
                 "gender": "male",
@@ -2509,7 +2509,7 @@
             },
             {
                 "_id": "63c98f2d104efab09813ed6e",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221205/D3SW/638e0e96aeb269659cd13ecf/-473Wx593H-469241937-black-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221205/D3SW/638e0e96aeb269659cd13ecf/-473Wx593H-469241937-black-MODEL5.jpg",
                 "brand": "LEVIS",
                 "product": "512 Slim Tapered Fit Jeans",
                 "gender": "male",
@@ -2521,7 +2521,7 @@
             },
             {
                 "_id": "63c98f3b372813139cb7e66d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220908/9yls/6318fc81aeb269dbb378b2c0/-473Wx593H-469241895-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220908/9yls/6318fc81aeb269dbb378b2c0/-473Wx593H-469241895-blue-MODEL4.jpg",
                 "brand": "LEVIS",
                 "product": "511 Light Wash Slim Fit Jeans",
                 "gender": "male",
@@ -2533,7 +2533,7 @@
             },
             {
                 "_id": "63c98f48372813139cb7e66f",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220301/syhQ/621e4576aeb26921afbf46bf/-473Wx593H-469133435-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220301/syhQ/621e4576aeb26921afbf46bf/-473Wx593H-469133435-blue-MODEL4.jpg",
                 "brand": "LEVIS",
                 "product": "512 Washed Slim Tapered Jeans",
                 "gender": "male",
@@ -2545,7 +2545,7 @@
             },
             {
                 "_id": "63c98f52372813139cb7e671",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220808/jgag/62f12a53aeb26921afd03181/-473Wx593H-469217852-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220808/jgag/62f12a53aeb26921afd03181/-473Wx593H-469217852-blue-MODEL4.jpg",
                 "brand": "LEVIS",
                 "product": "Washed Slim Fit Jeans",
                 "gender": "male",
@@ -2557,7 +2557,7 @@
             },
             {
                 "_id": "63c98f5f372813139cb7e673",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220611/cylM/62a3a3dbf997dd03e271b020/-473Wx593H-469114651-blue-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220611/cylM/62a3a3dbf997dd03e271b020/-473Wx593H-469114651-blue-MODEL.jpg",
                 "brand": "LEVIS",
                 "product": "Heavily Washed Slim Fit Jeans",
                 "gender": "male",
@@ -2569,7 +2569,7 @@
             },
             {
                 "_id": "63c99181dbe7d07c8356c42b",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220708/BVCb/62c847e9aeb26921af6c07dc/-473Wx593H-469217795-blue-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220708/BVCb/62c847e9aeb26921af6c07dc/-473Wx593H-469217795-blue-MODEL4.jpg",
                 "brand": "Levis",
                 "product": "Printed Hoodie with Kangaroo Pockets",
                 "gender": "male",
@@ -2581,7 +2581,7 @@
             },
             {
                 "_id": "63c991a5dbe7d07c8356c42d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220610/Ztwd/62a2514ef997dd03e26fc255/-473Wx593H-469217955-white-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220610/Ztwd/62a2514ef997dd03e26fc255/-473Wx593H-469217955-white-MODEL4.jpg",
                 "brand": "Levis",
                 "product": "Logo Print Crew-Neck Sweatshirt",
                 "gender": "male",
@@ -2593,7 +2593,7 @@
             },
             {
                 "_id": "63c991afdbe7d07c8356c42f",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220708/z7hT/62c858d1f997dd03e2c5c5a4/-473Wx593H-469217794-black-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220708/z7hT/62c858d1f997dd03e2c5c5a4/-473Wx593H-469217794-black-MODEL4.jpg",
                 "brand": "Levis",
                 "product": "Printed Hoodie with Kangaroo Pockets",
                 "gender": "male",
@@ -2605,7 +2605,7 @@
             },
             {
                 "_id": "63c991b8dbe7d07c8356c431",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220716/f6Jl/62d1bcddaeb26921af7e3b0e/-473Wx593H-469217966-white-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220716/f6Jl/62d1bcddaeb26921af7e3b0e/-473Wx593H-469217966-white-MODEL4.jpg",
                 "brand": "Levis",
                 "product": "Typographic Print Crew-Neck Sweatshirt",
                 "gender": "male",
@@ -2617,7 +2617,7 @@
             },
             {
                 "_id": "63c9941e5a77e55ebbda4aa0",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220617/oc6t/62ac421ef997dd03e2869d33/-473Wx593H-464467577-green-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220617/oc6t/62ac421ef997dd03e2869d33/-473Wx593H-464467577-green-MODEL5.jpg",
                 "brand": "JOMPERS",
                 "product": "Woven Long Kurta with Mandarin Neck",
                 "gender": "male",
@@ -2629,7 +2629,7 @@
             },
             {
                 "_id": "63c994285a77e55ebbda4aa2",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220817/G3I9/62fc3a83aeb26917617b6d19/-473Wx593H-464829869-yellow-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220817/G3I9/62fc3a83aeb26917617b6d19/-473Wx593H-464829869-yellow-MODEL5.jpg",
                 "brand": "JOMPERS",
                 "product": "Long Kurta with Mirror Work",
                 "gender": "male",
@@ -2641,7 +2641,7 @@
             },
             {
                 "_id": "63c994381c7950d722b2d549",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230111/Oxfn/63be9834f997dd708efeb357/-473Wx593H-465590231-maroon-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20230111/Oxfn/63be9834f997dd708efeb357/-473Wx593H-465590231-maroon-MODEL6.jpg",
                 "brand": "JOMPERS",
                 "product": "Embroidered Band-Collar Kurta",
                 "gender": "male",
@@ -2653,7 +2653,7 @@
             },
             {
                 "_id": "63c994425adca87de51b3c0d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220926/SxhO/63318d98f997dd1f8d1baa6c/-473Wx593H-465054093-orange-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220926/SxhO/63318d98f997dd1f8d1baa6c/-473Wx593H-465054093-orange-MODEL5.jpg",
                 "brand": "JOMPERS",
                 "product": "Embroidered Long Kurta with Mandarin Collar",
                 "gender": "male",
@@ -2665,7 +2665,7 @@
             },
             {
                 "_id": "63c9945886f891a5c23143f8",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220617/uBzC/62ac44b7f997dd03e286fa2a/-473Wx593H-464468199-green-MODEL5.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220617/uBzC/62ac44b7f997dd03e286fa2a/-473Wx593H-464468199-green-MODEL5.jpg",
                 "brand": "JOMPERS",
                 "product": "Self-design Full-Sleeve Long Kurta",
                 "gender": "male",
@@ -2677,7 +2677,7 @@
             },
             {
                 "_id": "63c99c527f3d5edac1873971",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220919/aaPh/63288ebeaeb269dbb393ee99/-473Wx593H-469308243-green-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220919/aaPh/63288ebeaeb269dbb393ee99/-473Wx593H-469308243-green-MODEL6.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Checked Slim Fit 2-Piece Suit Set",
                 "gender": "male",
@@ -2689,7 +2689,7 @@
             },
             {
                 "_id": "63c99c5fd0ac77f0631a5368",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220930/Pz49/6336e2c3f997ddfdbdff8fa9/-473Wx593H-441953772-navy-MODEL7.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220930/Pz49/6336e2c3f997ddfdbdff8fa9/-473Wx593H-441953772-navy-MODEL7.jpg",
                 "brand": "VAN HEUSEN",
                 "product": "Full-Length Sleeve 3-Piece Suit Set",
                 "gender": "male",
@@ -2701,7 +2701,7 @@
             },
             {
                 "_id": "63c99c6eb4b4f9209110a183",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230104/wQMg/63b58ef6f997ddfdbd10be47/-473Wx593H-469426785-blue-MODEL9.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20230104/wQMg/63b58ef6f997ddfdbd10be47/-473Wx593H-469426785-blue-MODEL9.jpg",
                 "brand": "ALLEN SOLLY",
                 "product": "Printed Slim Fit Suit Set",
                 "gender": "male",
@@ -2713,7 +2713,7 @@
             },
             {
                 "_id": "63c99c7c63f5752cc06042f9",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220919/Enzj/63288923f997dd1f8d0835a4/-473Wx593H-469308467-navy-MODEL6.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220919/Enzj/63288923f997dd1f8d0835a4/-473Wx593H-469308467-navy-MODEL6.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Striped Slim Fit 2-Piece Suit Set",
                 "gender": "male",
@@ -2725,7 +2725,7 @@
             },
             {
                 "_id": "63c99c8afbe418fda63ade1a",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220704/W2nf/62c2a768f997dd03e2b6c025/-473Wx593H-469239002-black-MODEL7.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220704/W2nf/62c2a768f997dd03e2b6c025/-473Wx593H-469239002-black-MODEL7.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Striped 4-piece Slim Fit Set",
                 "gender": "male",
@@ -2737,7 +2737,7 @@
             },
             {
                 "_id": "63c99cc5e62df6596f123cc7",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221221/SeWG/63a2b258f997ddfdbde8a508/-473Wx593H-469417319-grey-MODEL8.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221221/SeWG/63a2b258f997ddfdbde8a508/-473Wx593H-469417319-grey-MODEL8.jpg",
                 "brand": "LOUIS PHILIPPE",
                 "product": "Checked Single-Breasted 2-Piece Suit Set",
                 "gender": "male",
@@ -2749,7 +2749,7 @@
             },
             {
                 "_id": "63c99d47e62df6596f123cc9",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230104/V2Lc/63b5aa1ef997ddfdbd116276/-473Wx593H-469426429-navy-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20230104/V2Lc/63b5aa1ef997ddfdbd116276/-473Wx593H-469426429-navy-MODEL.jpg",
                 "brand": "ALLEN SOLLY",
                 "product": "Checked Slim Fit 3-Piece Suit Set",
                 "gender": "male",
@@ -2761,7 +2761,7 @@
             },
             {
                 "_id": "63c9a0dc44bcd7545a940c05",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221220/lRM3/63a0db4df997ddfdbde156fa/-1117Wx1400H-465463355-peach-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221220/lRM3/63a0db4df997ddfdbde156fa/-1117Wx1400H-465463355-peach-MODEL.jpg",
                 "brand": "BESUCHER",
                 "product": "Floral Pattern Silk Saree |",
                 "gender": "female",
@@ -2773,7 +2773,7 @@
             },
             {
                 "_id": "63c9a557176eb7bb2f7527fd",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220127/RXhg/61f2daaef997dd66234079f3/gosriki_pink_geometric_print_straight_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220127/RXhg/61f2daaef997dd66234079f3/gosriki_pink_geometric_print_straight_kurta_set.jpg",
                 "brand": "GOSRIKI",
                 "product": "Geometric Print Straight Kurta Set",
                 "gender": "female",
@@ -2785,7 +2785,7 @@
             },
             {
                 "_id": "63c9a63e176eb7bb2f7527ff",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220124/8ATC/61eeae7af997dd662337baf6/gulmohar_jaipur_yellow_floral_printed_straight_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220124/8ATC/61eeae7af997dd662337baf6/gulmohar_jaipur_yellow_floral_printed_straight_kurta_set.jpg",
                 "brand": "GULMOHAR JAIPUR",
                 "product": "Floral Printed Straight Kurta Set",
                 "gender": "female",
@@ -2797,7 +2797,7 @@
             },
             {
                 "_id": "63c9a663176eb7bb2f752801",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220124/IYjE/61eeadd8f997dd662337b165/gulmohar_jaipur_maroon_floral_print_straight_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220124/IYjE/61eeadd8f997dd662337b165/gulmohar_jaipur_maroon_floral_print_straight_kurta_set.jpg",
                 "brand": "GULMOHAR JAIPUR",
                 "product": "Floral Print Straight Kurta Set",
                 "gender": "female",
@@ -2809,7 +2809,7 @@
             },
             {
                 "_id": "63c9a681176eb7bb2f752803",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211006/ntzG/615d2b66f997ddce89026c9f/ishoo_white_polka-dot_flared_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20211006/ntzG/615d2b66f997ddce89026c9f/ishoo_white_polka-dot_flared_kurta_set.jpg",
                 "brand": "ISHOO",
                 "product": "Polka-dot Flared Kurta Set",
                 "gender": "female",
@@ -2821,7 +2821,7 @@
             },
             {
                 "_id": "63c9a69d176eb7bb2f752805",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220124/zTEx/61eeac9bf997dd6623379e6d/gulmohar_jaipur_teal_floral_print_flared_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220124/zTEx/61eeac9bf997dd6623379e6d/gulmohar_jaipur_teal_floral_print_flared_kurta_set.jpg",
                 "brand": "GULMOHAR JAIPUR",
                 "product": "Floral Print Flared Kurta Set",
                 "gender": "female",
@@ -2833,7 +2833,7 @@
             },
             {
                 "_id": "63c9a6b9176eb7bb2f752807",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20211125/cMM7/619fbe5aaeb2690110d8b766/gosriki_pink_floral_printed_straight_kurta_sets.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20211125/cMM7/619fbe5aaeb2690110d8b766/gosriki_pink_floral_printed_straight_kurta_sets.jpg",
                 "brand": "GOSRIKI",
                 "product": "Floral Printed Straight Kurta Sets",
                 "gender": "female",
@@ -2845,7 +2845,7 @@
             },
             {
                 "_id": "63c9a6d6176eb7bb2f752809",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210316/YU0Y/604fb60bf997dd5c40116be6/avaasa_mix_n%27_match_yellow_floral_print_straight_kurta.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210316/YU0Y/604fb60bf997dd5c40116be6/avaasa_mix_n%27_match_yellow_floral_print_straight_kurta.jpg",
                 "brand": "AVAASA MIX N' MATCH",
                 "product": "Floral Print Straight Kurta",
                 "gender": "female",
@@ -2857,7 +2857,7 @@
             },
             {
                 "_id": "63c9a6fc176eb7bb2f75280b",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210615/vaXX/60c7f988f997ddb312cac345/gosriki_blue_floral_print_straight_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210615/vaXX/60c7f988f997ddb312cac345/gosriki_blue_floral_print_straight_kurta_set.jpg",
                 "brand": "GOSRIKI",
                 "product": "Floral Print Straight Kurta Set",
                 "gender": "female",
@@ -2869,7 +2869,7 @@
             },
             {
                 "_id": "63c9a716176eb7bb2f75280d",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220107/8BhM/61d75260f997dd662313585b/anubhutee_blue_indian_anarkali_kurta_set.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220107/8BhM/61d75260f997dd662313585b/anubhutee_blue_indian_anarkali_kurta_set.jpg",
                 "brand": "ANUBHUTEE",
                 "product": "Indian Anarkali Kurta Set",
                 "gender": "female",
@@ -2881,7 +2881,7 @@
             },
             {
                 "_id": "63c9a741176eb7bb2f75280f",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210404/cf7C/606beceaaeb269a9e36fc13c/aks_green_checked_straight_kurta.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210404/cf7C/606beceaaeb269a9e36fc13c/aks_green_checked_straight_kurta.jpg",
                 "brand": "AKS",
                 "product": "Checked Straight Kurta",
                 "gender": "female",
@@ -2893,7 +2893,7 @@
             },
             {
                 "_id": "63c9a76b176eb7bb2f752811",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210430/hG7l/608c1bd1aeb269a9e3a65fb8/fusion_white_printed_straight_kurta_with_high-low_hemline.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210430/hG7l/608c1bd1aeb269a9e3a65fb8/fusion_white_printed_straight_kurta_with_high-low_hemline.jpg",
                 "brand": "FUSION",
                 "product": "Printed Straight Kurta with High-Low Hemline",
                 "gender": "female",
@@ -2905,7 +2905,7 @@
             },
             {
                 "_id": "63c9a78b176eb7bb2f752813",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220114/bhqJ/61e16cd6aeb2695cdd157ae9/avaasa_mix_n%27_match_burgundy_straight_kurta_with_floral_embroidered_yoke.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220114/bhqJ/61e16cd6aeb2695cdd157ae9/avaasa_mix_n%27_match_burgundy_straight_kurta_with_floral_embroidered_yoke.jpg",
                 "brand": "AVAASA MIX N' MATCH",
                 "product": "Straight Kurta with Floral Embroidered Yoke",
                 "gender": "female",
@@ -2917,7 +2917,7 @@
             },
             {
                 "_id": "63ca6ac441e6cb49ebd81fe4",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220727/Zi4G/62e053edaeb26921af9efd3c/-1117Wx1400H-464719623-yellow-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220727/Zi4G/62e053edaeb26921af9efd3c/-1117Wx1400H-464719623-yellow-MODEL.jpg",
                 "brand": "DISRUPT",
                 "product": "Slim-Fit Crop Top",
                 "gender": "female",
@@ -2929,7 +2929,7 @@
             },
             {
                 "_id": "63ca6ad741e6cb49ebd81fe6",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221122/p9H1/637ca711f997ddfdbd8e4116/-1117Wx1400H-443004335-pink-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221122/p9H1/637ca711f997ddfdbd8e4116/-1117Wx1400H-443004335-pink-MODEL.jpg",
                 "brand": "FIG",
                 "product": "Floral Print Top with Curved Hem",
                 "gender": "female",
@@ -2941,7 +2941,7 @@
             },
             {
                 "_id": "63ca6ae641e6cb49ebd81fe8",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221201/2pNs/6387c8abf997ddfdbdae54dd/-1117Wx1400H-465366837-olive-MODEL4.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221201/2pNs/6387c8abf997ddfdbdae54dd/-1117Wx1400H-465366837-olive-MODEL4.jpg",
                 "brand": "PRETTIFY",
                 "product": "Square-Neck Full-Sleeve Top",
                 "gender": "female",
@@ -2953,7 +2953,7 @@
             },
             {
                 "_id": "63ca6af341e6cb49ebd81fea",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20210403/s5ws/60685e0d7cdb8c1f14748222/-1117Wx1400H-461044318-blue-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20210403/s5ws/60685e0d7cdb8c1f14748222/-1117Wx1400H-461044318-blue-MODEL.jpg",
                 "brand": "MISS CHASE",
                 "product": "Solid Top with Peter Pan Collar",
                 "gender": "female",
@@ -2965,7 +2965,7 @@
             },
             {
                 "_id": "63ca6afd41e6cb49ebd81fec",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220601/sh0F/6296ea21aeb26921af01d41b/-1117Wx1400H-462506144-cream-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20220601/sh0F/6296ea21aeb26921af01d41b/-1117Wx1400H-462506144-cream-MODEL.jpg",
                 "brand": "SHAYE",
                 "product": "Floral Print V-neck Top",
                 "gender": "female",
@@ -2977,7 +2977,7 @@
             },
             {
                 "_id": "63ca6b0b41e6cb49ebd81fee",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221104/dnrr/636526a1aeb269659c72c5f5/-1117Wx1400H-465138366-white-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221104/dnrr/636526a1aeb269659c72c5f5/-1117Wx1400H-465138366-white-MODEL.jpg",
                 "brand": "TIOR",
                 "product": "Floral Print Square-Neck Peplum Top",
                 "gender": "female",
@@ -2989,7 +2989,7 @@
             },
             {
                 "_id": "63ca6b1941e6cb49ebd81ff0",
-                "imageURL": "https://assets.ajio.com/medias/sys_master/root/20221214/Exgb/6398f077f997ddfdbdd31096/-1117Wx1400H-465434154-black-MODEL.jpg",
+                "image": "https://assets.ajio.com/medias/sys_master/root/20221214/Exgb/6398f077f997ddfdbdd31096/-1117Wx1400H-465434154-black-MODEL.jpg",
                 "brand": "LAGASHI",
                 "product": "Slim Fit Square-Neck Top",
                 "gender": "female",
@@ -3527,6 +3527,7 @@
                 "discount": 10
             }
         ]
+
 
 
 }
